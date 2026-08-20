@@ -9,7 +9,7 @@ Je suis actuellement le cursus du **Certificat Professionnel Google en Cyberséc
 
 ## 🛠️ Compétences en cours d'acquisition (Cursus Google)
 * **Analyse réseau :** Compréhension des protocoles, capture et filtrage de trafic (Wireshark, tcpdump).
-* **Systèmes & Commandes :** Maîtrise des lignes de commande sous Linux (Bash) et Windows (PowerShell).
+* **Systèmes & Commandes :** Maîtrise des lignes de commande sous Linux.
 * **Gestion des incidents :** Utilisation des frameworks de sécurité (NIST) et analyse des journaux d'événements (Logs).
 * **Programmation :** Initiation aux bases de Python pour l'automatisation des tâches de sécurité.
 
